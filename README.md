@@ -4,7 +4,7 @@ O objetivo desta documentação é detalhar a resolução em Java das três ques
 ✅ Requisitos
 Java 11 ou superior - https://www.oracle.com/java/technologies/downloads
 IDE Java - De sua preferência
-##▶️ Executando o Projeto
+## ▶️ Executando o Projeto
 Clone ou baixe o projeto pelo navegador.
 Na IDE, procure a opção Abri aquivo, navegue até o projeto e selecione o arquivo.
 💡 Resolução
