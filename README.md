@@ -13,11 +13,11 @@ A resolução de cada questão foram feitas em arquivos diferentes. São eles: Q
 Para rodar os testes selecione o arquivo da questão que desejar.
 ## 💻 Tecnologias utilizadas
 Para o desenvolvivemto foram utilizadas as seguintes tecnologias:
-Java - Linguagem de programação;
-JUnit - Testes unitários.
+- Java - Linguagem de programação;
+- JUnit - Testes unitários.
 ## 📚 Questões
-Resolução Questão1
-Resolução Questão2
-Resolução Questão3
+- [Resolução Questão1]
+- [Resolução Questão2]
+- [Resolução Questão3]
 
 **By:** ***Matheus C.F (Hashi Sen)***
