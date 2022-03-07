@@ -16,8 +16,8 @@ Para o desenvolvivemto foram utilizadas as seguintes tecnologias:
 - Java - Linguagem de programação;
 - JUnit - Testes unitários.
 ## 📚 Questões
-- [Resolução Questão1](github.com)
-- [Resolução Questão2]
-- [Resolução Questão3]
+- [Resolução Questão1](https://github.com/hashisen01/Desafio-Capgemini/blob/main/Questao01.java)
+- [Resolução Questão2](https://github.com/hashisen01/Desafio-Capgemini/blob/main/Questao02.java)
+- [Resolução Questão3](https://github.com/hashisen01/Desafio-Capgemini/blob/main/Questao03.java)
 
 **By:** ***Matheus C.F (Hashi Sen)***
